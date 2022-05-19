@@ -1,4 +1,5 @@
-{
+{   
+  "homepage":"http://divyanshugehlot.github.io/gericht",
   "name": "gerich-restaurant",
   "version": "0.1.0",
   "private": true,
